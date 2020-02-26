@@ -18,7 +18,7 @@ baseurl: "/sample-blog" # the subpath of your site, e.g. "/blog".  WARNING: if y
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: "1littlecoder"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
